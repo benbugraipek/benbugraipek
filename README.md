@@ -13,8 +13,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/BA6222FF" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/BA6222FF" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/git/BA6222FF" /> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/heroku/BA6222FF" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/BA6222FF" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/unity/BA6222FF" /> </a> </p>
 
-<h3 align="left">My Spotify Recently Plays:</h3>
+<details>
+<summary><b>Click if you want to see what I'm listening to</b></summary>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qa9k5c991s9129cd86xlkg3fh&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qa9k5c991s9129cd86xlkg3fh&unique={true|1|on|yes})>
+
+</details>
 
 ![Visitor Count](https://profile-counter.glitch.me/benbugraipek/count.svg)
