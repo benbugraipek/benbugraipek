@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=00730E&random=false&width=435&lines=Ben+Bu%C4%9Fra+%C4%B0pek;Pc.+Prog.+Stu.+%40+Hacettepe+Uni;Full-Time+Game+Dev+%40+OtiLab)](https://git.io/typing-svg)
 
-![Visitor Count](https://profile-counter.glitch.me/benbugraipek/count.svg)
 
-- 🔭 I’m currently working on **Flappy Soccer**
+🔭 I’m currently working on **Flappy Soccer**
 
-- 🌱 I’m currently learning **C#, Javascript**
+🌱 I’m currently learning **C#, Javascript**
 
-- 💬 Ask me about **Unity and C#**
+💬 Ask me about **Unity and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +20,5 @@
 <h3 align="left">My Spotify Recently Plays:</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qa9k5c991s9129cd86xlkg3fh&unique={true|1|on|yes})
+
+![Visitor Count](https://profile-counter.glitch.me/benbugraipek/count.svg)
