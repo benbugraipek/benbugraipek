@@ -1,5 +1,6 @@
-<h1 align="center">Selam 👋, Ben Buğra İpek</h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=00730E&center=true&random=false&width=435&lines=Ben+Bu%C4%9Fra+%C4%B0pek;Pc.+Prog.+Stu.+%40+Hacettepe+Uni;Full-Time+Game+Dev+%40+OtiLab)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benbugraipek&label=Profile%20views&color=0e75b6&style=flat" alt="benbugraipek" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=00730E&center=true&random=false&width=435&lines=Ben+Bu%C4%9Fra+%C4%B0pek;Pc.+Prog.+Stu.+%40+Hacettepe+Uni;Full-Time+Game+Dev+%40+OtiLab)](https://git.io/typing-svg)
+
+![Visitor Count](https : //profile-counter.glitch.me/benbugraipek/count.svg)
 
 - 🔭 I’m currently working on **Flappy Soccer**
 
