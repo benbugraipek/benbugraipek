@@ -1,4 +1,4 @@
-<img align="right" src="[https://imgur.com/a/zQ4kpvn](https://imgur.com/BgBEZ8C)"/>
+<img align="right" src="https://i.imgur.com/BgBEZ8C.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=00730E&size=30&random=false&width=435&lines=Ben+Bu%C4%9Fra+%C4%B0pek;Pc.+Prog.+Stu.+%40+Hacettepe+Uni;Full-Time+Game+Dev+%40+OtiLab)](https://git.io/typing-svg) 
 
