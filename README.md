@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=00730E&center=true&random=false&width=435&lines=Ben+Bu%C4%9Fra+%C4%B0pek;Pc.+Prog.+Stu.+%40+Hacettepe+Uni;Full-Time+Game+Dev+%40+OtiLab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=00730E&random=false&width=435&lines=Ben+Bu%C4%9Fra+%C4%B0pek;Pc.+Prog.+Stu.+%40+Hacettepe+Uni;Full-Time+Game+Dev+%40+OtiLab)](https://git.io/typing-svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/benbugraipek/count.svg)
 
 - 🔭 I’m currently working on **Flappy Soccer**
 
-- 🌱 I’m currently learning **C#, Swift, Javascript**
+- 🌱 I’m currently learning **C#, Javascript**
 
 - 💬 Ask me about **Unity and C#**
 
