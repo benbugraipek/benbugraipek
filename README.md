@@ -10,8 +10,10 @@
 <a href="https://discord.gg/bugraipek" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/discord/BA6222FF" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<details>
+<summary>Tech and Lang Stack</summary>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/BA6222FF" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/BA6222FF" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/git/BA6222FF" /> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/heroku/BA6222FF" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/BA6222FF" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img height="32" width="32" src="https://cdn.simpleicons.org/unity/BA6222FF" /> </a> </p>
+</details>
 
 <details>
 <summary><b>Click if you want to see what I'm listening to</b></summary>
