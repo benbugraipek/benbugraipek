@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&duration=1000&pause=1000&color=BA6222&multiline=true&repeat=false&random=false&width=500&lines=-+Working+on+Flappy+Soccer;-+Currently+learning+C%23+and+JavaScript;-+Ask+me+about+Unity+and+C%23)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bugraipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bugraipek" height="30" width="40" /></a>
-<a href="https://instagram.com/benbugraipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benbugraipek" height="30" width="40" /></a>
-<a href="https://discord.gg/bugraipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bugraipek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bugraipek" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/BA6222FF" /></a>
+<a href="https://instagram.com/benbugraipek" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/BA6222FF" /></a>
+<a href="https://discord.gg/bugraipek" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/discord/BA6222FF" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
